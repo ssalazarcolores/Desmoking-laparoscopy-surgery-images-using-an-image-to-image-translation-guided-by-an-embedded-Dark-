@@ -71,7 +71,7 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 
 If this code is useful for you please consider citing our work appropriately . Thanks :)
 
-> - Pending reference
+> - Paper in revision...
 
 ## Contact
 
