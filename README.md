@@ -26,12 +26,8 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 
 > - path='./img_test/output/'
 
+* Run test_img as
+
+> - python test_img.py
 
 
-
-
-and Run
-main_run.py
-
-The result will be saved in
-pred_dir='./Desmoked'
