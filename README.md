@@ -53,4 +53,21 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 * Checkpoints will be saved in
 > - ./scripts/checkpoints/pix2pix_laparoscopy_dc/
 
+## Reference
+
+If this code is useful for you please consider citing our work appropriately . Thanks :)
+
+> - Pending reference
+
+## Contact
+
+For more questions, please feel free to contact us
+
+sebastian.salazar@cio.mx
+hugoamj@gmail.com
+cesarortiz1983@gmail.com 
+gflores@cio.mx
+
+
+
 
