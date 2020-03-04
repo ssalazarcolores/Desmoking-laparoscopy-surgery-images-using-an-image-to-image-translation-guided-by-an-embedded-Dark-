@@ -7,7 +7,8 @@ In laparoscopic surgery, image quality can be severely degraded by smoke caused 
 Moreover, the time processing required by the proposed method of 92 fps showed that it can be applied to real-time medical systems, and even in an embedded device.
 
 
-## Sample animation result (Give click to animation...)
+## Sample animation result 
+### (Give click to animation...)
 
 [![Demo sample result](lap.gif)](https://youtu.be/Gw8OZNDdicE)
 
