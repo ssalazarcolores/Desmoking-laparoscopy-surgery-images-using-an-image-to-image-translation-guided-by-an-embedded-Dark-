@@ -63,10 +63,10 @@ If this code is useful for you please consider citing our work appropriately . T
 
 For more questions, please feel free to contact us
 
-sebastian.salazar@cio.mx
-hugoamj@gmail.com
-cesarortiz1983@gmail.com 
-gflores@cio.mx
+* sebastian.salazar@cio.mx
+* hugoamj@gmail.com
+* cesarortiz1983@gmail.com 
+* gflores@cio.mx
 
 
 
