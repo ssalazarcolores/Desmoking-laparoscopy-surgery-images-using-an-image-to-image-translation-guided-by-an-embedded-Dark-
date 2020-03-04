@@ -7,11 +7,31 @@ In laparoscopic surgery, image quality can be severely degraded by smoke caused 
 Moreover, the time processing required by the proposed method of 92 fps showed that it can be applied to real-time medical systems, and even in an embedded device.
 
 
-## Sample Result
+## Sample animation result
 
 [![Demo sample result](lap.gif)](https://youtu.be/Gw8OZNDdicE)
 
 
 ## Neural network
 
-<img src="GAN3-1.png" alt="Neural network" width="200"/>
+<img src="GAN3-1.png" alt="Neural network" width="500"/>
+
+## How to test
+
+* Place the input laparoscopic images
+
+> - path='./img_test/input/'
+
+* The results will be saved in
+
+> - path='./img_test/output/'
+
+
+
+
+
+and Run
+main_run.py
+
+The result will be saved in
+pred_dir='./Desmoked'
