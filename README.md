@@ -18,16 +18,33 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 
 ## How to test
 
+* Download the pretrained model from
+
+> - https://drive.google.com/file/d/1ja-BjV4mGraw7FpsnYAOS2xXDIJ5RD12/view?usp=sharing
+
+* Place best_net_G.pth in
+> - ./scripts/checkpoints/pix2pix_laparoscopy_dc/
+
 * Place the input laparoscopic images
 
 > - path='./img_test/input/'
+
+* Run test_img as
+
+> - python test_img.py
 
 * The results will be saved in
 
 > - path='./img_test/output/'
 
-* Run test_img as
 
-> - python test_img.py
+## How to train
+
+* Place the input in
+> - path='./datasets/laparoscopy/input/'
+* Place the target in
+> - path='./datasets/laparosopy/output/'
+
+
 
 
