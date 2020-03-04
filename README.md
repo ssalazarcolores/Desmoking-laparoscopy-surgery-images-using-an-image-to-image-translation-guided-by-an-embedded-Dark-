@@ -18,6 +18,20 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 
 <img src="GAN3-1.png" alt="Neural network" width="500"/>
 
+## Requeriments
+
+* python                    3.7.6
+* numpy                     1.17.5 
+* numpy-base                1.18.1 
+* pytorch                   1.4.0
+* torchvision               0.5.0 
+* opencv                    3.4.2           
+* opencv-contrib-python     4.1.2.30
+* pandas                    0.25.3 
+* natsort                   6.2.0 
+* pytest-shutil             1.7.0
+
+
 ## How to test
 
 * Download the pretrained model from
