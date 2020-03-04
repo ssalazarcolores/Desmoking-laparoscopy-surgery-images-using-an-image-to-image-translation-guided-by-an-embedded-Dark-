@@ -8,7 +8,7 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 
 
 ## Sample animation result 
-### (Give click to animation...)
+##### (Give click to animation...)
 
 [![Demo sample result](lap.gif)](https://youtu.be/Gw8OZNDdicE)
 
