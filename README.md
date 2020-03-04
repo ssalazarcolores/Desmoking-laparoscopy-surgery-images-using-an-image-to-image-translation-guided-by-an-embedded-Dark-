@@ -44,7 +44,11 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 > - path='./datasets/laparoscopy/input/'
 * Place the target in
 > - path='./datasets/laparosopy/output/'
+* Run
+> - cd '/scripts/'
+> - ./laparoscopy_run_train.sh
 
-
+* Checkpoints will be saved in
+> - ./scripts/checkpoints/pix2pix_laparoscopy_dc/
 
 
