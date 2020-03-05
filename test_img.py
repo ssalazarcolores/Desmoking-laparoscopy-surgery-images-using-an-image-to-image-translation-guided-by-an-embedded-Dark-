@@ -49,7 +49,7 @@ pathout = path + 'output/'
 urls= ls(pathin)
 
 cnt = 0
-model_path='./scripts/checkpoints/pix2pix_laparoscopy_ds/best_net_G.pth'
+model_path='./scripts/checkpoints/pix2pix_laparoscopy_dc/best_net_G.pth'
 dsmk=desmoker(model_path)
 
 
