@@ -83,5 +83,7 @@ For more questions, please feel free to contact us
 * gflores@cio.mx
 
 
+*The demonstrative video and used images are acquired from Cholec 80 dataset. http://camma.u-strasbg.fr/datasets
+
 
 
