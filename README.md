@@ -84,6 +84,7 @@ For more questions, please feel free to contact us
 
 
 *The demonstrative video and used images were acquired from Cholec 80 dataset. http://camma.u-strasbg.fr/datasets
+*The code is based on https://github.com/DLHacks/pix2pix_PAN
 
 
 
