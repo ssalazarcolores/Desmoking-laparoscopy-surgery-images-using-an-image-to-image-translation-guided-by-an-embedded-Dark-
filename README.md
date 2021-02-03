@@ -71,7 +71,7 @@ Moreover, the time processing required by the proposed method of 92 fps showed t
 
 If this code is useful for you please consider citing our work appropriately . Thanks :)
 
-> - Paper in revision...
+S. Salazar-Colores, H. M. Jiménez, C. J. Ortiz-Echeverri and G. Flores, "Desmoking Laparoscopy Surgery Images Using an Image-to-Image Translation Guided by an Embedded Dark Channel," in IEEE Access, vol. 8, pp. 208898-208909, 2020, doi: 10.1109/ACCESS.2020.3038437.
 
 ## Contact
 
